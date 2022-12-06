@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mailin Adaro</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from Patagonia, Argentina</h3>
 
 - 🔭 I’m currently working on **my porfolio**
 
