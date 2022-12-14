@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my porfolio**
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **FRAMER MOTION**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
