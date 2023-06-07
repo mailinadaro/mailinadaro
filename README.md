@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'am Mailin Adaro</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **my porfolio**
+- 🔭 I’m currently working on **ADN ecommerce**
 
-- 🌱 I’m currently learning **FRAMER MOTION**
+- 🌱 I’m currently learning **REDUX TOOLKIT QUERY**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
